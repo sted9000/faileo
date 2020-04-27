@@ -3,7 +3,7 @@ title: Inaugural Challenge - Introduction
 date: 2020-04-27
 ---
 
-Welcome to the inaugural faileo goals challenge. Hopefully the first of many fruitful challenges that help guide us towards where we want to be and form us in to who we want to become. This first challenge will be the testing ground both for ourselves and the faileo challenge system.
+Welcome to the inaugural faileo goals challenge. Hopefully the first of many fruitful challenges that help guide us towards where we want to be and form us into who we want to become. This first challenge will be the testing ground both for ourselves and the faileo challenge system.
 
 Weekly Criteria:
 
