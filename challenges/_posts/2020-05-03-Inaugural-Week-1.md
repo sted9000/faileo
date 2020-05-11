@@ -12,9 +12,13 @@ The main objective of a lot of poker playing is well aligned with my professiona
 
 I think this week is quite simple and relatively easy. I want to get off to a good start.
 
+(Success)
+
 <hr />
 
 Voshage's Objectives:
 1. Can I finish origin scene first draft.
 2. For Turning Point 2 and 4, can I re-create the scene sketches, by answering the specific questions until the scene is visual? [Visual meaning, I myself can watch it play out, which only happens with the right specifics.]
 3. For Turning Point 5, can I encapsulate what Josh wants to tell Em and why?
+
+(Success)
