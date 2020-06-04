@@ -3,7 +3,7 @@ title: Inaugural Challenge - Week 2
 date: 2020-05-10
 ---
 
-Ted's Objectives:
+Ted's Objectives (accomplished):
 1. 30 hours of GambitPLO development.
 2. Build _Habit Stack_ of Yoga + Meditation + Get Back to Work (6/7 days)*
 3. Alternate reading and writing in for 60 minutes each morning (7/7 days)
@@ -19,7 +19,7 @@ Adding some push-up because 70 was quite easy.
 
 <hr />
 
-Voshage's Objectives:
+Voshage's Objectives (failed):
 
 1. Sit 20 minutes, 5 days.
 2. Can I collect all incomplete projects, digital and physical, into one grand list?
